@@ -127,7 +127,10 @@ Based on the observed patterns, the following actions are worth investigating:
 
 ## Dashboard Preview
 
-![E-Commerce Funnel Analysis Dashboard](E-Commerce funnel analysis dashboard.png)
+
+## Dashboard Preview
+
+![E-Commerce Funnel Analysis Dashboard](./E-Commerce%20Funnel%20Analysis%20Dashboard.png)
 
 ## Project Files
 
